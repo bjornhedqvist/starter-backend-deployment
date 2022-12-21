@@ -31,4 +31,4 @@ module.exports = {
       directory: __dirname + "/api/db/seeds",
     },
   },
-};
+}
